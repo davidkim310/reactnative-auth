@@ -13,7 +13,7 @@ class App extends Component {
             projectId: "auth-f61e3",
             storageBucket: "auth-f61e3.appspot.com",
             messagingSenderId: "233674379457"
-          }); 
+        });
     }
 
 
